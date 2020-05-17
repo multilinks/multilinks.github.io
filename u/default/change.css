@@ -1,0 +1,17 @@
+body {
+	background-color: rgba(0, 0, 255, 0.05);
+}
+
+.footer a, .footer span {
+	color: #000;
+}
+
+#instagram {display: flex;}
+#youtube {display: flex;}
+#vkontakte {display: flex;}
+#soundcloud {display: flex;}
+#telegram {display: flex;}
+#tiktok {display: flex;}
+#beatstars {display: flex;}
+#twitter {display: flex;}
+#facebook {display: flex;}

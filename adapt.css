@@ -1,0 +1,9 @@
+@media (min-width: 700px) {
+	.list .social {width: 50%;}
+	.logo {display: none;}
+	.footer {z-index: 999;}
+	body {background-color: #000;}
+	.bg {display: none;}
+	.footer {color: #fff;} .footer a {color: #fff;}
+	.logo-img {display: block;}
+}
