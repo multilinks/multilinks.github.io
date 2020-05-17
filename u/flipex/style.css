@@ -124,7 +124,7 @@ body {
 #a2 {animation-delay: 1.5s !important; animation: social 1s ease; background-color: #F86110;}
 #a3 {animation-delay: 2s !important; animation: social 1s ease; background-color: #5181B8;}
 #a4 {animation-delay: 2.5s !important; animation: social 1s ease; background-color: red;}
-#a5 {animation-delay: 3s !important; animation: social 1s ease; background-color: red;}
+#a5 {animation-delay: 3s !important; animation: social 1s ease; background-color: #CC0000;}
 
 .cover {
 	display: none;
